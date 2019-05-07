@@ -1,0 +1,11 @@
+C:\Users\jbolo\source\repos\Jack_Final_Inventory__Csharp\Jack_Final_Inventory__Csharp\bin\Debug\ComputerInventory.accdb
+C:\Users\jbolo\source\repos\Jack_Final_Inventory__Csharp\Jack_Final_Inventory__Csharp\bin\Debug\Jack_Final_Inventory__Csharp.exe.config
+C:\Users\jbolo\source\repos\Jack_Final_Inventory__Csharp\Jack_Final_Inventory__Csharp\bin\Debug\Jack_Final_Inventory__Csharp.exe
+C:\Users\jbolo\source\repos\Jack_Final_Inventory__Csharp\Jack_Final_Inventory__Csharp\bin\Debug\Jack_Final_Inventory__Csharp.pdb
+C:\Users\jbolo\source\repos\Jack_Final_Inventory__Csharp\Jack_Final_Inventory__Csharp\obj\Debug\Jack_Final_Inventory__Csharp.csprojResolveAssemblyReference.cache
+C:\Users\jbolo\source\repos\Jack_Final_Inventory__Csharp\Jack_Final_Inventory__Csharp\obj\Debug\Jack_Final_Inventory__Csharp.Form1.resources
+C:\Users\jbolo\source\repos\Jack_Final_Inventory__Csharp\Jack_Final_Inventory__Csharp\obj\Debug\Jack_Final_Inventory__Csharp.Properties.Resources.resources
+C:\Users\jbolo\source\repos\Jack_Final_Inventory__Csharp\Jack_Final_Inventory__Csharp\obj\Debug\Jack_Final_Inventory__Csharp.csproj.GenerateResource.Cache
+C:\Users\jbolo\source\repos\Jack_Final_Inventory__Csharp\Jack_Final_Inventory__Csharp\obj\Debug\Jack_Final_Inventory__Csharp.csproj.CoreCompileInputs.cache
+C:\Users\jbolo\source\repos\Jack_Final_Inventory__Csharp\Jack_Final_Inventory__Csharp\obj\Debug\Jack_Final_Inventory__Csharp.exe
+C:\Users\jbolo\source\repos\Jack_Final_Inventory__Csharp\Jack_Final_Inventory__Csharp\obj\Debug\Jack_Final_Inventory__Csharp.pdb

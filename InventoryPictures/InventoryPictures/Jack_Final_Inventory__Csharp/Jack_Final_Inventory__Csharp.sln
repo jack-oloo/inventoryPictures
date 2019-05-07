@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jack_Final_Inventory__Csharp", "Jack_Final_Inventory__Csharp\Jack_Final_Inventory__Csharp.csproj", "{32B4B3B7-1525-402A-AB05-7E73CC96B5CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32B4B3B7-1525-402A-AB05-7E73CC96B5CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32B4B3B7-1525-402A-AB05-7E73CC96B5CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32B4B3B7-1525-402A-AB05-7E73CC96B5CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32B4B3B7-1525-402A-AB05-7E73CC96B5CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5C0053D-D650-450A-9272-3D48BE988D9F}
+	EndGlobalSection
+EndGlobal
